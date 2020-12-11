@@ -11,6 +11,7 @@
 
   <depend>roscpp</depend>
   <depend>dvs_msgs</depend>
+  <depend>dvs_renderer</depend>
   <depend>eigen_catkin</depend>
 
   <export>
